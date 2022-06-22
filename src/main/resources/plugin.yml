@@ -1,0 +1,4 @@
+name: Plugin
+version: 1.0
+author: jan-herzog
+main: de.notecho.spring.BukkitPlugin
